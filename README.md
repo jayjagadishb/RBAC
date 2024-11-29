@@ -38,17 +38,17 @@ To run this project locally, follow these steps:
 
 Ensure you have the following installed:
 
-- [Node.js](https://nodejs.org) (Version X.X.X or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) (depending on your preference)
+- [Node.js](https://nodejs.org) 
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) 
 
 ### Steps
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/role-based-access-control.git
+   git clone https://github.com/jayjagadishb/RBAC.git
 2. Navigate to the project folder:
    ```bash
-   cd role-based-access-control
+   cd project
 3. Install the dependencies:
    ```bash
    npm install
